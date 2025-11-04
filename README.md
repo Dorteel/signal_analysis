@@ -1,7 +1,3 @@
-README below. Concise, clear, contextual to your current code (EDF ECG processing + R-peak detection + HRV).
-
----
-
 ## ECG Signal Analysis (Python)
 
 This project processes ECG data stored in **EDF** format, extracts cardiac features, and visualizes:

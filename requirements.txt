@@ -1,0 +1,5 @@
+pyedflib
+scipy
+numpy
+matplotlib
+pandas
